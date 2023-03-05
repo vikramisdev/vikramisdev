@@ -1,16 +1,26 @@
-### Hi there 👋
+<img width="100%" align="center" alt="Fish Gif" src="https://media2.giphy.com/media/QAgRfOGBQr4xvAbCBL/giphy.webp?cid=6c09b952db8413c04134c48e010808e913de67543682683a&rid=giphy.webp&ct=g"/>
 
-<!--
-**vikramv20/vikramv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >
 
-Here are some ideas to get you started:
+<b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey 👋🏻, its Vikram.<br>Welcome peaky ! I am a computer science student from India. I have basic and some intermediate knowledge about programming. I know python, html, c, etc & some other languages. Feel free to look my GitHub Repositories.
+
+</b>
+
+</p>
+
+<br><br>
+
+<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vikramv20&show_icons=true&locale=en" alt="vikram vishwakarma"/>
+
+<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramv20&layout=compact&langs_count=99" alt="vikram vishwakarma"/>
+
+
+
+
+
+
+
+
+
