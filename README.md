@@ -12,9 +12,9 @@ Hey 👋🏻, its Vikram.<br>Welcome peaky ! I am a computer science student fro
 
 <br><br>
 
-<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vikramv20&show_icons=true&locale=en" alt="vikram vishwakarma"/>
+<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vikramisdev&show_icons=true&locale=en" alt="vikram vishwakarma"/>
 
-<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramv20&layout=compact&langs_count=99" alt="vikram vishwakarma"/>
+<img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramisdev&layout=compact&langs_count=99" alt="vikram vishwakarma"/>
 
 
 
