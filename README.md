@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/QAgRfOGBQr4xvAbCBL/giphy.webp?cid=6c09b952db8413c04134c48e010808e913de67543682683a&rid=giphy.webp&ct=g" width="400" alt="GIF">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vikramisdev" alt="GitHub Profile Views">
 </p>
 
