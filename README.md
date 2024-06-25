@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vikramisdev" alt="GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vikramisdev&style=for-the-batch" alt="GitHub Profile Views">
 </p>
 
 # Hey 👋🏻, I'm Vikram
