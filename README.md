@@ -13,7 +13,7 @@ Welcome, Peaky! I'm a computer science student from India with a passion for pro
 Feel free to explore my GitHub repositories and see what I've been working on!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramisdev&show_icons=true&locale=en" alt="GitHub Stats">
+  <img style="border-radius: 30px;" src="https://github-readme-stats.vercel.app/api?username=vikramisdev&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
 <p align="center">
