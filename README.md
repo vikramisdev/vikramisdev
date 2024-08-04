@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=vikramisdev&style=for-the-badge" alt="GitHub Profile Views">
 </p>
 
-# Hey 👋🏻, I'm Vikram
+<strong>Hey There,</strong>
 
-Welcome, Peaky! I'm a computer science student from India with a passion for programming. I have a solid foundation in various programming languages, including Python, HTML, and C, along with some intermediate skills. I'm constantly learning and expanding my knowledge.
+Welcome, Peaky! I'm a computer science graduate from India with a passion for programming. I have a solid foundation in various programming languages, including Python, Java & C, along with some intermediate skills. I'm constantly learning and expanding my knowledge.
 
 Feel free to explore my GitHub repositories and see what I've been working on!
 
